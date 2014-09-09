@@ -1,0 +1,1650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"compiler"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"c",
+				"cha	Chapter"
+			],
+			[
+				"fra",
+				"frametitle"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"equi",
+				"equivalent"
+			],
+			[
+				"for",
+				"foreach	TikZ: foreach"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"tab",
+				"tabxf	tabularx-float"
+			],
+			[
+				"Max",
+				"MaxSamples"
+			],
+			[
+				"Trans",
+				"TransformVariant"
+			],
+			[
+				"te",
+				"textures"
+			],
+			[
+				"asyn",
+				"asyncPrime"
+			],
+			[
+				"as",
+				"asyncPrime"
+			],
+			[
+				"next",
+				"nextPrime"
+			],
+			[
+				"templa",
+				"templatePath"
+			],
+			[
+				"get",
+				"getSeconds  (function)"
+			],
+			[
+				"getmi",
+				"getMinutes  (function)"
+			],
+			[
+				"path",
+				"path_unix"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"req",
+				"reqProps"
+			],
+			[
+				"require",
+				"require  (function)"
+			],
+			[
+				"createserver",
+				"http.createServer(requestListener);"
+			],
+			[
+				"log",
+				"console.log(message);"
+			],
+			[
+				"write",
+				"writeln  (function)"
+			],
+			[
+				"input",
+				"input{file}	latex-document"
+			],
+			[
+				"permea",
+				"permeabilities"
+			],
+			[
+				"porosi",
+				"porosities"
+			],
+			[
+				"noin",
+				"noindent"
+			],
+			[
+				"communi",
+				"communication"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"an",
+				"anchor=south"
+			],
+			[
+				"iterat",
+				"iterations"
+			],
+			[
+				"vecto",
+				"vectors"
+			],
+			[
+				"exectu",
+				"executing"
+			],
+			[
+				"Let",
+				"Let’s"
+			],
+			[
+				"algo",
+				"algorithm"
+			],
+			[
+				"previ",
+				"previously"
+			],
+			[
+				"corres",
+				"corresponding"
+			],
+			[
+				"operation",
+				"operations"
+			],
+			[
+				"operati",
+				"operations"
+			],
+			[
+				"speed",
+				"speedup"
+			],
+			[
+				"Min",
+				"Minimum"
+			],
+			[
+				"under",
+				"underbrace"
+			],
+			[
+				"wir",
+				"wir-bottom"
+			],
+			[
+				"bottom-le",
+				"bottom-left-right"
+			],
+			[
+				"anhor",
+				"anchor=south"
+			],
+			[
+				"hor-top-",
+				"hor-top-right"
+			],
+			[
+				"commun",
+				"communication"
+			],
+			[
+				"proce",
+				"processors"
+			],
+			[
+				"perfom",
+				"performed"
+			],
+			[
+				"anc",
+				"anchor=north"
+			],
+			[
+				"fon",
+				"font=\\small"
+			],
+			[
+				"anco",
+				"anchor=west"
+			],
+			[
+				"fill",
+				"fill=white"
+			],
+			[
+				"a",
+				"anchor=east"
+			],
+			[
+				"transm",
+				"transmissibility"
+			],
+			[
+				"d",
+				"d	description-entry"
+			],
+			[
+				"permeabil",
+				"permeability"
+			],
+			[
+				"coeffi",
+				"coefficients"
+			],
+			[
+				"appro",
+				"approximations"
+			],
+			[
+				"satura",
+				"saturations"
+			],
+			[
+				"free",
+				"free+solution"
+			],
+			[
+				"in",
+				"includegraphics[options]{name}	latex-document"
+			],
+			[
+				"exa",
+				"example"
+			],
+			[
+				"Substi",
+				"substituting"
+			],
+			[
+				"appr",
+				"approximation"
+			],
+			[
+				"exp",
+				"expansion"
+			],
+			[
+				"reser",
+				"reservoir"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"distri",
+				"distributed"
+			],
+			[
+				"cdot",
+				"cdots	latex-document"
+			],
+			[
+				"communica",
+				"communicator"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"approa",
+				"approaches"
+			],
+			[
+				"acnhor",
+				"anchor=west"
+			],
+			[
+				"hspace",
+				"hspace{length}	latex-document"
+			],
+			[
+				"enve",
+				"envelope-label"
+			],
+			[
+				"node",
+				"node-IO"
+			],
+			[
+				"node-",
+				"node-M"
+			],
+			[
+				"communca",
+				"communicator"
+			],
+			[
+				"proces",
+				"processes"
+			],
+			[
+				"par",
+				"par	Paragraph"
+			],
+			[
+				"desc",
+				"desc	Description"
+			],
+			[
+				"parallell",
+				"parallellization"
+			],
+			[
+				"orga",
+				"organizations"
+			],
+			[
+				"Mul",
+				"MultiProcessor"
+			],
+			[
+				"proc",
+				"processors"
+			],
+			[
+				"title",
+				"titlepage	titlepage"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"inde",
+				"indices's"
+			],
+			[
+				"perm",
+				"permeability"
+			],
+			[
+				"end",
+				"end{document}	pex3.tex"
+			],
+			[
+				"margin",
+				"margin-top:   (property)"
+			],
+			[
+				"font-",
+				"font-style:   (property)"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"header",
+				"color-headerbg"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"heigh",
+				"height_line"
+			],
+			[
+				"hei",
+				"height_line_endpoint_old"
+			],
+			[
+				"height_",
+				"height_line_endpoint_old"
+			],
+			[
+				"mon",
+				"monthview"
+			],
+			[
+				"bar_",
+				"bar_height_label"
+			],
+			[
+				"bar_he",
+				"bar_height_label"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"static",
+				"staticfiles"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"month",
+				"month_days"
+			],
+			[
+				"create",
+				"create_monthview_cols"
+			],
+			[
+				"deta",
+				"details_mesh"
+			],
+			[
+				"acti",
+				"active_column"
+			],
+			[
+				"backdrop",
+				"details_backdrop_material"
+			],
+			[
+				"back",
+				"details_backdrop_geo"
+			],
+			[
+				"Me",
+				"MeshLambertMaterial"
+			],
+			[
+				"ac",
+				"active_column"
+			],
+			[
+				"mater",
+				"material_labels"
+			],
+			[
+				"colu",
+				"column_detection"
+			],
+			[
+				"navi",
+				"navigate_down"
+			],
+			[
+				"arrow",
+				"arrow_down"
+			],
+			[
+				"navigate_",
+				"navigate_down"
+			],
+			[
+				"tras",
+				"transition_in_progress"
+			],
+			[
+				"trans",
+				"transition_in_progress"
+			],
+			[
+				"year",
+				"year_last-year_first"
+			],
+			[
+				"move",
+				"move_columns"
+			],
+			[
+				"draw_",
+				"draw_columns"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"root",
+				"Snippet: LaTeXing Option Root File"
+			],
+			[
+				"preferences latexing",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"settings latex",
+				"Preferences: LaTeXing Settings - Default (Extended)"
+			],
+			[
+				"open p",
+				"LaTeXing: Open PDF"
+			],
+			[
+				"beamer",
+				"Set Syntax: LaTeXing Beamer"
+			],
+			[
+				"clean",
+				"LaTeXing: Clean up (Remove) all Nonessential Files"
+			],
+			[
+				"pdf",
+				"LaTeXing: Jump To PDF"
+			],
+			[
+				"latexing chec",
+				"LaTeXing: Check System"
+			],
+			[
+				"latexing ",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"latexint ci",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"eclipse",
+				"Set Syntax: Eclipse data file"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax: j",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax spe",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter t",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter to",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"syntax: latex",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"synt",
+				"Set Syntax: R"
+			],
+			[
+				"latexing",
+				"LaTeXing: Install License"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"roo",
+				"Snippet: LaTeXing Option Root File"
+			],
+			[
+				"tikz",
+				"Set Syntax: TikZ"
+			],
+			[
+				"make sm",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"latexing mu",
+				"LaTeXing: Lookup TeX Symbol"
+			],
+			[
+				"live",
+				"LaTeXing: Toggle TikZ Live Preview"
+			],
+			[
+				"open",
+				"LaTeXing: Open PDF"
+			],
+			[
+				"preview",
+				"LaTeXing: Toggle TikZ Live Preview"
+			],
+			[
+				"para",
+				"Snippet: Paragraph"
+			],
+			[
+				"syntax: late",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"jeky",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"jek",
+				"Snippet: set the front-matter for a jekyll post"
+			],
+			[
+				"ull",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"system",
+				"LaTeXing: Check System"
+			],
+			[
+				"pish",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"decora",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"dock",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"comment",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"PUSH",
+				"Git: Push"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"root	",
+				"Snippet: LaTeXing Option Root File"
+			],
+			[
+				"staut",
+				"Git: Status"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"docu",
+				"Python Docstrings: Unfold"
+			],
+			[
+				"snippet mak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"chec",
+				"LaTeXing: Check System"
+			],
+			[
+				"check",
+				"LaTeXing: Check System"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"git:remo",
+				"Git: Remote"
+			],
+			[
+				"git:remote",
+				"Git: Remote"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"decore",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"decor",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"cmake",
+				"Set Syntax: CMake"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"snippet color",
+				"Snippet: lumenia-dark-blue-color"
+			],
+			[
+				"errr",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"all er",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"all erro",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"err",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"git statu",
+				"Set Syntax: SublimeGit Status"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"jekyll",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"removc",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gia",
+				"Git: Add Current File"
+			],
+			[
+				"cimm",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"snippet:tab",
+				"Snippet: Table"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"part",
+				"Snippet: Part"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"snippet",
+				"Snippet: Figure"
+			],
+			[
+				"git: add",
+				"Git: Add Current File"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdo",
+				"Strapdown.js Markdown: Preview in a browser"
+			],
+			[
+				"mark",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"latexsq_clean",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/einar/git/other/matrix-cpp"
+	],
+	"file_history":
+	[
+		"/home/einar/git/school/TPG4162_assistant/latex/code/readintarray",
+		"/home/einar/git/school/TPG4162_assistant/latex/code/readintarray.cpp",
+		"/home/einar/git/school/TPG4162_assistant/latex/code/intarray",
+		"/home/einar/git/school/TPG4162_assistant/latex/code/intarray.txt",
+		"/home/einar/.config/sublime-text-3/Packages/User/LaTeXing.sublime-settings",
+		"/home/einar/.config/sublime-text-3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/home/einar/git/school/TPG4162_assistant/latex/preambles/preamble-beamer.tex",
+		"/home/einar/git/school/TPG4162_assistant/latex/code/helloworld.cpp",
+		"/home/einar/git/school/TPG4162_assistant/latex/preambles/preamble-beamer-addon-envs.tex",
+		"/usr/share/texlive/texmf-dist/tex/latex/ntheorem/ntheorem.sty",
+		"/home/einar/git/school/TPG4162_assistant/latex/file_reading.tex",
+		"/home/einar/git/school/TPG4162_assistant/latex/preambles/preamble-addon-listings.tex",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/plain_2.cpp",
+		"/home/einar/git/school/TPG4162_assistant/latex/c-notes.tex",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/pointers.c",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/matrix.cpp",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/matrix",
+		"/home/einar/git/school/TPG4162_assistant/latex/figures/c-notes-multi-dimensional-array.tikz",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/plain.cpp",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/test.cpp",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/test",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/Matrix.cpp",
+		"/home/einar/git/school/TPG4162_assistant/code/exercise2/testing.cpp",
+		"/home/einar/git/school/TPG4162_assistant/latex/figures/c-notes-pointer_into_array.tikz",
+		"/home/einar/git/school/TPG4162_assistant/latex/figures/c-notes-pointer.tikz",
+		"/home/einar/git/school/SPE-CSP7/latex/preambles/preamble.tex",
+		"/home/einar/git/school/SPE-CSP7/latex/preambles/preamble-addon-figures.tex",
+		"/home/einar/git/school/SPE-CSP7/.gitignore",
+		"/home/einar/git/school/SPE-CSP7/data/SPE71A.DATA",
+		"/home/einar/git/school/SPE-CSP7/SPE7.sublime-project",
+		"/home/einar/git/school/ECL_ST3_Grammar/constants.DATA",
+		"/home/einar/git/school/ECL_ST3_Grammar/keywords.DATA",
+		"/home/einar/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/einar/git/school/TPG4162_assistant/code/adapted_applied_procedural/makefile",
+		"/home/einar/git/school/TPG4162_assistant/code/adapted_applied_procedural/headers/SeismicReader.c",
+		"/home/einar/git/school/TPG4162_assistant/code/adapted_applied_procedural/headers/TextureCreator.c",
+		"/home/einar/git/school/TPG4162_assistant/code/adapted_applied_procedural/headers/SeismicReader.h",
+		"/home/einar/git/school/TPG4162_assistant/code/adapted_applied_procedural/headers/TextureCreator.h",
+		"/home/einar/git/school/TPG4162_assistant/code/adapted_applied_procedural/main.c",
+		"/home/einar/git/school/TPG4162_assistant/code/project1/NOTES",
+		"/home/einar/git/school/TPG4162_assistant/.gitignore",
+		"/home/einar/git/school/TPG4162_assistant/code/project1/definitions.c",
+		"/home/einar/git/school/TPG4162_assistant/code/project1/project1.c",
+		"/home/einar/git/school/TPG4162_assistant/code/project1/glutWindow.c",
+		"/home/einar/git/school/TPG4162_assistant/code/project1/initGlut.c",
+		"/home/einar/git/school/TPG4162_assistant/code/project1/glutWindow.h",
+		"/home/einar/git/school/TPG4162_assistant/code/project1/initGlut.h",
+		"/home/einar/Documents/express/mocha-testing/test/test.next-prime.js",
+		"/home/einar/Documents/express/mocha-testing/index.js",
+		"/home/einar/Documents/express/ex2/Express.js",
+		"/home/einar/Documents/express/ex2/templates/index.jade",
+		"/home/einar/Documents/express/mocha-testing/package.json",
+		"/home/einar/Documents/express/ex1/Express.js",
+		"/home/einar/Documents/express/hello-world/app.js",
+		"/home/einar/Documents/express/ex2/index.jade",
+		"/home/einar/Documents/node.js learning/ex6/module.js",
+		"/home/einar/Documents/node.js learning/ex3/synchronous_io.js",
+		"/home/einar/.config/sublime-text-3/Packages/FuzzyFileNav/Default (Linux).sublime-keymap",
+		"/home/einar/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/einar/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+		"/home/einar/Documents/Javascript learning/boilerplate/method.js",
+		"/home/einar/Documents/Javascript learning/test1/progran.html",
+		"/home/einar/.config/sublime-text-3/Packages/User/LaTeX.sublime-settings",
+		"/home/einar/git/master/notes/resopt_latexdocs/resopt_tools/resopt_tools.tex",
+		"/home/einar/Dropbox/Programming/JavaScript/Notater/js/patterns/new_operator.js",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/ressim.tex",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/parts/diffusivity-equation.tex",
+		"/home/einar/git/resopt/resopt_modules/parts/intro.log",
+		"/home/einar/git/resopt/resopt_modules",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/partitioning/domain-decomp.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/matrix-matrix-multiplication.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/equations.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/matrix-vector-product/columnwise.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/matrix-vector-product/mpi_allreduce_sum.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/poisson.tex",
+		"/home/einar/.config/sublime-text-3/Packages/User/LaTeX (TikZ).sublime-settings",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/matrix-vector/rowwise.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/preambles/preamble-addon-figures.tex",
+		"/home/einar/git/school/course_tma4280/exercises/s5.tex",
+		"/home/einar/git/school/SupCom_tma4280/tempnotes.txt",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/supcom.tex",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/saturation-three-phase-triangular.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/drainage-oil-water-capillary.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/drainage-oil-gas-permeability.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/drainage-oil-gas-capillary.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/imbibition-oil-gas-capillary.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/imbibition-oil-gas-permeability.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/drainage-oil-water-permeability.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/preambles/preamble-addon-figures.tex",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/imbibition-oil-water-permeability.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/preambles/preamble.tex",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/parts/curves.tex",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/black-oil/muo.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/black-oil/mug.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/black-oil/muw.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/black-oil/rso.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/black-oil/bo.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/black-oil/bg.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/saturation-three-phase-triangular.ptex",
+		"/home/einar/.config/sublime-text-3/Packages/User/Snippets/LaTeX/environments/subfig.sublime-snippet",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/imbibition-oil-water-capillary.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves/drainage-oil-water.pdf",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/curves",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/reservoirs/3-phase-grid-pressure-saturation.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/parts/solution-methods.tex",
+		"/home/einar/.config/sublime-text-3/Packages/User/Snippets/LaTeX/math/text.sublime-snippet",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/exercise2.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/exercise3.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/exercise1.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/code/ex3/matops_mpi.c",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/code/ex2/matops.c",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/code/ex1/matmult.c",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/stencils/3d-center.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/preambles/preamble-addon-envs.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/exam_2013.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/preambles/preamble.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/exam_2012.tex",
+		"/home/einar/.config/sublime-text-3/Packages/User/Snippets/LaTeX/various/noindent.sublime-snippet",
+		"/home/einar/Desktop/temp/test.tex",
+		"/home/einar/.config/sublime-text-3/Packages/User/Snippets/LaTeX/math/mathbf.sublime-snippet",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/partitioning/strip-row.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/partitioning/block.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/partitioning/strip-col.tikz",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/parts/parallell_io.tex",
+		"/home/einar/git/school/SupCom_tma4280/notes/latex/illustrations/io/splitting.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/saturation-profiles/buckley-leverett-average-upstream.tikz",
+		"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations/matrix-structures/3d-system-numbering.tikz",
+		"/home/einar/.config/sublime-text-3/Packages/User/Snippets/LaTeX/various/description-entry.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"/home/einar/git/school/ResSim_tpg4160/exam/latex/illustrations",
+			"/home/einar/git/school/SupCom_tma4280/notes/latex/parts",
+			"/home/einar/git/software/ert",
+			"<project>",
+			"/home/einar/git/software/ert",
+			"/home/einar/Repositories/tma4280/examples",
+			"/home/einar/Repositories/hackathon/einar",
+			"/home/einar/Dropbox/Lumenia/Kompendier/Datamodellering og databasesystemer/latex",
+			"/home/einar/.config/sublime-text-3/Packages/Theme - Simplicity",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pdf",
+			"elems",
+			"4",
+			"  \n",
+			"10",
+			"spacegra",
+			"data",
+			"MapColors",
+			"__",
+			"ApplyFilters",
+			"__",
+			"transformAndFi",
+			"TransformThrea",
+			"ParallellInver",
+			"SelectFreq",
+			"enterFilter",
+			"AllocateFloatMatrix",
+			"allocateFloat",
+			"Samples",
+			"seismic",
+			"textures",
+			"TEX_",
+			"tempatePath",
+			"theme",
+			"bomnin",
+			"itemize",
+			"(comp)",
+			"T_p(comm",
+			"conv",
+			"equation",
+			"c",
+			"2",
+			"brace",
+			"GOC",
+			"primar",
+			"primart",
+			"b",
+			",",
+			"[]",
+			"3",
+			"quotation",
+			"\\section{Exercise",
+			".\n",
+			"\\vspace{-1em}",
+			"6",
+			"3",
+			"\\begin{question}",
+			"1",
+			"3",
+			"1",
+			"&",
+			"6",
+			"multline",
+			"9",
+			"7",
+			"6",
+			"t_{i+1}",
+			"t_{i}",
+			"t_i",
+			"x\\,",
+			"x,",
+			"x(.)\\\\Delta x",
+			"right",
+			"dims",
+			"-1",
+			"-1.25",
+			"5",
+			"5.5",
+			"0",
+			"1.25",
+			"0",
+			"3",
+			"split",
+			"send",
+			"1",
+			"2",
+			"N1",
+			",.25",
+			"25",
+			"south",
+			"north",
+			"3",
+			"-1",
+			",-",
+			"1",
+			"west",
+			"P2",
+			"C2",
+			"\"theme\"",
+			"C2",
+			"5",
+			"4",
+			"Top",
+			"cannnical",
+			"S_IWUSR",
+			"ecl_sum_index",
+			"ecl_sum_file.h",
+			"ecl_sum_file.c",
+			"ecl_block.h",
+			"block.h",
+			"blck.h",
+			"ecl_kw.h",
+			"HAVE_FNMATCH",
+			"build_ens",
+			"ecl_summary",
+			"heigh",
+			"grap",
+			"over",
+			"above",
+			"below",
+			"one of",
+			"garn",
+			"&",
+			"tonnes",
+			"publi",
+			"faktahefter",
+			"wconhist",
+			"error",
+			"ERROR",
+			"a-3h",
+			"\\n\\n",
+			"DATES",
+			"DATES\\s*\\n(.*/)\\s*\\n/",
+			"--\\s*.*\\s*\\n",
+			"daxpy",
+			"q",
+			"local",
+			"b "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(calc)",
+			" &",
+			"&",
+			"0",
+			"2",
+			"question",
+			"\\subsection{Problem",
+			"",
+			"\\vspace{-1em}\n\\begin{question}",
+			"8",
+			"10",
+			"9",
+			"7",
+			"t+\\Delta t",
+			"t",
+			"x_i,",
+			"x_\\{i\\1 1\\}",
+			"Garn",
+			"tons",
+			"\\n",
+			"\\1",
+			"",
+			"htb",
+			"width=",
+			"width",
+			"blue",
+			"indexes",
+			"WOPR",
+			"WOPT",
+			"WOPR",
+			"WOPT",
+			"LENGTH_COMPARISON",
+			"WOPT",
+			"0,",
+			"WOPR",
+			"-",
+			"boundaries",
+			"yr",
+			"array",
+			"month",
+			"year",
+			"month",
+			"year",
+			"plane_back",
+			"plane_left",
+			"plane_right",
+			"plane_front",
+			"material_wall",
+			"plane_top",
+			"right",
+			"1.5",
+			"B",
+			"",
+			"eta",
+			"r",
+			"cr",
+			"rootnode",
+			"l3_",
+			"l2_",
+			"clnode",
+			"crnode",
+			"cr",
+			"cl",
+			"clnode",
+			"rnode",
+			"p",
+			"lnode",
+			"rnode",
+			"cnode",
+			"s",
+			"legend-text",
+			"legend-item",
+			"legend-box",
+			"node-overflow",
+			"pointer-data",
+			"pointer-post-left",
+			"pointer-post-right",
+			"pointer-node",
+			"pointer-node-center",
+			"pointer-node-right",
+			"pointer-node-left",
+			"& ",
+			"FFFFFF",
+			"Simplicity",
+			"newSymbDom",
+			"symbol",
+			"medium-11",
+			"2px",
+			"h3",
+			".png",
+			"{defn}",
+			"{definition}",
+			"\\tilde{\\nu}",
+			"\\hbar",
+			"\\Psi^{\\star}",
+			"\\int_{-\\infty}^{\\infty}",
+			"../grafikk/",
+			"µ_",
+			"s",
+			"POSTFIX",
+			"!-",
+			"! "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 110.0
+	},
+	"project": "matrix-cpp.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
